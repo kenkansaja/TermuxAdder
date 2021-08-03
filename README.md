@@ -11,11 +11,15 @@ pkg install python -y
 cd TelegramScraper
 chmod +x * && python3 setup.py
 ```
+<img src="file/1.png"/>
+
 ### Langkah kedua setelah tahap pertama selesai
 
 ```
 python3 scraper.py
 ```
+<img src="file/2.png"/>
+
 ### Langkah 3 setelah tahap kedua selesai
 
 ```
