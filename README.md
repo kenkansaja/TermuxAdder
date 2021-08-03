@@ -8,7 +8,7 @@ pkg update && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/kenkansaja/TermuxAdder
 pkg install python -y
-cd TelegramScraper
+cd TermuxAdder
 chmod +x * && python3 setup.py
 ```
 <img src="file/1.png"/>
