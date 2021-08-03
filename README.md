@@ -25,8 +25,11 @@ python3 scraper.py
 ```
 python3 adder.py
 ```
+Kalau muncul seperti gambar di bawah berarti work
+<img src="file/3.png"/>
+
 
 Selamat mencoba kalu ada kesalahan silahkan hubungi
 [@kenkanasw](t.me/kenkanasw)
 
-Untuk foto atau keterangan gambar coming soon
+
