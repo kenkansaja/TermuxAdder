@@ -31,7 +31,7 @@ python3 adder.py
 Kalau muncul seperti gambar di bawah berarti work
 <img src="file/3.png"/>
 
-
+Kalau error di bagian python3 scraper.py silahkan masukan ulang `python3 scraper.py`
 Selamat mencoba kalu ada kesalahan silahkan hubungi
 [@kenkanasw](t.me/kenkanasw)
 
