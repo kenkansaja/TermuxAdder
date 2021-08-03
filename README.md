@@ -8,6 +8,9 @@ pkg update && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/kenkansaja/TermuxAdder
 pkg install python -y
+```
+Lalu
+```
 cd TermuxAdder
 chmod +x * && python3 setup.py
 ```
