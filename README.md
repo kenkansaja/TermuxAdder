@@ -24,3 +24,5 @@ python3 adder.py
 
 Selamat mencoba kalu ada kesalahan silahkan hubungi
 [@kenkanasw](t.me/kenkanasw)
+
+Untuk foto atau keterangan gambar coming soon
