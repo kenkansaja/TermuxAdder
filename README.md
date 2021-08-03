@@ -5,7 +5,7 @@ Script add member telegram lewat termux
 
 ```
 pkg update && pkg upgrade -y
-pkg install git
+pkg install git -y
 git clone https://github.com/kenkansaja/TermuxAdder
 pkg install python -y
 cd TelegramScraper
