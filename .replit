@@ -1,0 +1,5 @@
+language = "python3"
+run = "python3 setup.py"
+run = "python3 scraper.py"
+run = "python3 adder.py"
+
