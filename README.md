@@ -1,6 +1,11 @@
 # TermuxAdder
 Script add member telegram lewat termux
 
+Bagi yang males lewat termux, mimin sudah siapin link yang tinggal isi formulir dan sudah bisa di jalankan
+
+<p align="center"><a href="https://replit.com/@kenkannih/TermuxAdder#setup.py"><img src="https://img.shields.io/badge/REPLIT-TG ADDER-yellow?style=plastic&logo=replit&logoColor=yellow"width="270" height="40" /></a></p>
+
+
 ### Langkah pertama
 
 ```
